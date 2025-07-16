@@ -1,6 +1,7 @@
 GIT : local
 
 - versionning 
+- commit
 
 
 GITHUB : distant (GITLAB / BitBucket, ...)
