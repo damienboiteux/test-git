@@ -6,3 +6,5 @@ GIT : local
 
 GITHUB : distant (GITLAB / BitBucket, ...)
 
+
+Version initiale
